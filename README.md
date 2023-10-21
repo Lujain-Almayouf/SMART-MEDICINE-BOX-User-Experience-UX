@@ -15,3 +15,6 @@ Automatic Medication Request: The application will offer a convenient "Automatic
 
 ## Methodology:
 To ensure that our application meets the needs and expectations of users, we conducted interviews and administered questionnaires. Through face-to-face interviews with eight individuals of different ages, we gained valuable insights into the struggles faced during medication intake periods. Additionally, an online questionnaire with ten questions was answered by 22 participants, providing further insights into the desired features of a medication box application.
+
+## Tool Used:
+Figma: Figma is an interface design tool that we utilized to create and collaborate on our design assets. It allowed us to streamline the design process and ensure consistency across our project.
