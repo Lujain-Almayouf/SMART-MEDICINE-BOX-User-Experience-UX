@@ -1,7 +1,7 @@
 ## SMART-MEDICINE-BOX-User-Experience-UX
 
 ## Description: 
-Our project aims to develop a mobile app that reminds users to take their medications and automates medication requests. It also allows managing patient information, including adding, updating, and deleting medication and patient details. The app facilitates regular automatic orders from the pharmacy for a continuous supply of medicines.
+Our project aims to design a mobile app that reminds users to take their medications and automates medication requests. It also allows managing patient information, including adding, updating, and deleting medication and patient details. The app facilitates regular automatic orders from the pharmacy for a continuous supply of medicines.
 
 ## Introduction:
 In today's fast-paced world, individuals often face numerous obligations and pressures that can lead to forgetting or missing medication doses. This issue is further compounded when caregivers are responsible for multiple patients and struggle to keep track of their medication appointments. Moreover, some patients or their caregivers may face circumstances that prevent them from physically purchasing medicines. To address these challenges, we are developing a comprehensive mobile application that not only reminds users of their medication appointments but also allows them to record and manage their medication and patient information effectively.
