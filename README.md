@@ -13,10 +13,10 @@ Patient Management: Users will have the ability to add new patients to the appli
 
 Automatic Medication Request: The application will offer a convenient "Automatic Medicines Request" service. Users can set up regular automatic orders from the pharmacy on a monthly basis or at a frequency of their choosing. This feature eliminates the need for manual medication procurement and ensures a continuous supply of medicines.
 
-<img width="295" alt="Screen Shot 1445-04-08 at 10 44 34 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/11c92a0b-007d-49c2-8031-83424acf43ea">
-<img width="318" alt="Screen Shot 1445-04-08 at 10 46 36 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/583218f7-8eed-47d8-8b81-a3245c0f4511">
-<img width="326" alt="Screen Shot 1445-04-08 at 10 48 01 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/10328e7c-50e2-4bf3-bee5-c48fcff2abf5">
-<img width="330" alt="Screen Shot 1445-04-08 at 10 48 54 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/5b154c93-fb4f-4a0b-9d14-bb8b19bd12c3">
+<img width="150" alt="Screen Shot 1445-04-08 at 10 44 34 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/11c92a0b-007d-49c2-8031-83424acf43ea">
+<img width="150" alt="Screen Shot 1445-04-08 at 10 46 36 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/583218f7-8eed-47d8-8b81-a3245c0f4511">
+<img width="150" alt="Screen Shot 1445-04-08 at 10 48 01 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/10328e7c-50e2-4bf3-bee5-c48fcff2abf5">
+<img width="150" alt="Screen Shot 1445-04-08 at 10 48 54 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/5b154c93-fb4f-4a0b-9d14-bb8b19bd12c3">
 
 ## Methodology:
 To ensure that our application meets the needs and expectations of users, we conducted interviews and administered questionnaires. Through face-to-face interviews with eight individuals of different ages, we gained valuable insights into the struggles faced during medication intake periods. Additionally, an online questionnaire with ten questions was answered by 22 participants, providing further insights into the desired features of a medication box application.
