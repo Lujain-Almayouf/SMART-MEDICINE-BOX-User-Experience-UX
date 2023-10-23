@@ -15,11 +15,12 @@ Medication Reminder: The application will enable users to easily add new medicin
 Patient Management: Users will have the ability to add new patients to the application, making it easier for caregivers to manage multiple patients under their care. The application will also allow users to update patient information, ensuring accurate and up-to-date records.
 
 <img width="150" alt="Screen Shot 1445-04-08 at 10 44 34 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/11c92a0b-007d-49c2-8031-83424acf43ea">
+<img width="150" alt="Screen Shot 1445-04-08 at 11 01 08 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/080eb273-10c4-44f9-b967-01cec6fb643d">
 
 Automatic Medication Request: The application will offer a convenient "Automatic Medicines Request" service. Users can set up regular automatic orders from the pharmacy on a monthly basis or at a frequency of their choosing. This feature eliminates the need for manual medication procurement and ensures a continuous supply of medicines.
 
 <img width="150" alt="Screen Shot 1445-04-08 at 10 48 01 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/10328e7c-50e2-4bf3-bee5-c48fcff2abf5">
-
+<img width="150" alt="Screen Shot 1445-04-08 at 11 02 25 PM" src="https://github.com/Lujain-Almayouf/SMART-MEDICINE-BOX-User-Experience-UX/assets/112809872/0e7a978f-70ca-429f-88a6-8b5d3377955b">
 
 ## Methodology:
 To ensure that our application meets the needs and expectations of users, we conducted interviews and administered questionnaires. Through face-to-face interviews with eight individuals of different ages, we gained valuable insights into the struggles faced during medication intake periods. Additionally, an online questionnaire with ten questions was answered by 22 participants, providing further insights into the desired features of a medication box application.
